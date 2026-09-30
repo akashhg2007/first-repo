@@ -6,5 +6,5 @@ Test repo
 
 
 Akash HG
-Pragna S
+Pragna Akash
 
